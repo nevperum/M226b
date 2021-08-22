@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "B1", "B1", "{ECA9B94F-B3D6-431E-9671-E4DB5947E760}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "B2", "B2", "{9752F5A5-D360-4427-B4FC-BE31CDFEC030}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "B3", "B3", "{A6F394AD-8D09-4240-8247-D3CD4148EDE3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "B4", "B4", "{6B46D122-F5C4-4410-B7D3-54DA28D8B8BC}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB5DCDE9-D529-454D-B5E8-2772E6C83365}
+	EndGlobalSection
+EndGlobal
